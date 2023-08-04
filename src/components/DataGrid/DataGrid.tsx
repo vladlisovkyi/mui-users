@@ -25,7 +25,7 @@ const columns = [
   {
     field: "skills",
     headerName: "Skills",
-    minWidth: 150,
+    minWidth: 120,
   },
   {
     field: "startDate",
@@ -35,7 +35,7 @@ const columns = [
   {
     field: "preference",
     headerName: "Work Preference",
-    minWidth: 150,
+    minWidth: 120,
   },
 ];
 
