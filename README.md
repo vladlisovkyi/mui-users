@@ -2,4 +2,4 @@
 
 🧑‍💻Technologies Used: React, TypeScript, React-Router-Dom, MUI.
 
-📲 Live website: [https://next13-movies-eosin.vercel.app/](https://mui-users.netlify.app/)https://mui-users.netlify.app/
+📲 Live website: https://mui-users.netlify.app/
